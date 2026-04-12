@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+scikit-image
+scikit-learn
+rasterio
+geopandas
+shapely
+opencv-python
+tqdm
+requests
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+jupyter
+
